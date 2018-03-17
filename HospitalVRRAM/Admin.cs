@@ -18,7 +18,7 @@ namespace HospitalWithDB
 
         //End Constructor//
 
-        public void AddMedicine(Medicine medicine) { }      // TODOooo
+        public void AddMedicine(Medicine medicine) { }      // TODO
         public void ChangePrice(Medicine medicine , decimal price) { }  // TODO
         public void AddDoctor(Doctor doctor) { }            // TODO
         public void DeleteDoctor(Doctor doctor) { }         // TODO
