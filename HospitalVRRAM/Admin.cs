@@ -9,7 +9,7 @@ namespace HospitalWithDB
     class Admin : User
     {
         //  Properties  //
-        // End Properties  //
+        // End Properties  ////
 
         //Constructor//
 
